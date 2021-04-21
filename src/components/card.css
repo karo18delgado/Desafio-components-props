@@ -1,0 +1,11 @@
+
+.fondo-card{
+    background-color: #b599b4  ;
+}
+.imagen-card {
+    max-height: 400px;
+}
+.card-ubic{
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
